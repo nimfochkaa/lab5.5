@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\5.5 n 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4095AEED-F78E-454A-9A3C-B25A17EFF870}|5.5 n 3\\5.5 n 3.vcxproj|D:\\vs project\\5.5 n 3\\5.5 n 3\\5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4095AEED-F78E-454A-9A3C-B25A17EFF870}|5.5 n 3\\5.5 n 3.vcxproj|solutionrelative:5.5 n 3\\5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881777E2-2AD7-48FB-9000-278975A7DC46}|5.5\\5.5.vcxproj|D:\\vs project\\5.5 n 3\\5.5\\5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{881777E2-2AD7-48FB-9000-278975A7DC46}|5.5\\5.5.vcxproj|solutionrelative:5.5\\5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.5.cpp",
+              "DocumentMoniker": "D:\\vs project\\5.5 n 3\\5.5 n 3\\5.5.cpp",
+              "RelativeDocumentMoniker": "5.5 n 3\\5.5.cpp",
+              "ToolTip": "D:\\vs project\\5.5 n 3\\5.5 n 3\\5.5.cpp",
+              "RelativeToolTip": "5.5 n 3\\5.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T08:12:31.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.5.cpp",
+              "DocumentMoniker": "D:\\vs project\\5.5 n 3\\5.5\\5.5.cpp",
+              "RelativeDocumentMoniker": "5.5\\5.5.cpp",
+              "ToolTip": "D:\\vs project\\5.5 n 3\\5.5\\5.5.cpp",
+              "RelativeToolTip": "5.5\\5.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T11:01:56.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
